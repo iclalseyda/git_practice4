@@ -1,3 +1,3 @@
-public class testCase002 {
+public class TestCase002 {
     // awesome codes goes here
 }
